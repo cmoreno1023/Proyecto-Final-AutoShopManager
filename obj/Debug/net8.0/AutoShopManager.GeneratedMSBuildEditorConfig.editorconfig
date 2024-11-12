@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\cmore\OneDrive\Desktop\TRABAJOS ROMO CONSOLIDADO 3\AutoShopManager\AutoShopManager
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Clients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

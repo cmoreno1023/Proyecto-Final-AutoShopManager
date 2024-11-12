@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Design;
-using AutoShopManager.Models;  
+using AutoShopManager.Models;
 
 namespace AutoShopManager.Data
 {
