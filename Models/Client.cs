@@ -5,7 +5,7 @@ namespace AutoShopManager.Models
     public class Client
     {
         [Key]
-        public int IdClient { get; set; }
+        public int IdClient { get; set; }  // Asegúrate que sea IdClient y no Id
 
         [Required]
         [StringLength(50)]
