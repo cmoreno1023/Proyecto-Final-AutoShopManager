@@ -1,0 +1,42 @@
+﻿@page
+@model AutoShopManager.Pages.Vehicles.IndexModel
+@{
+    ViewData["Title"] = "Vehicles";
+}
+
+<h1>Vehicles</h1>
+
+<p>
+    <a asp-page="Create" class="btn btn-success">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Vehicle[0].LicensePlate)</th>
+            <th>@Html.DisplayNameFor(model => model.Vehicle[0].Brand)</th>
+            <th>@Html.DisplayNameFor(model => model.Vehicle[0].Model)</th>
+            <th>@Html.DisplayNameFor(model => model.Vehicle[0].Year)</th>
+            <th>@Html.DisplayNameFor(model => model.Vehicle[0].Color)</th>
+            <th>@Html.DisplayNameFor(model => model.Vehicle[0].Client)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Vehicle)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.LicensePlate)</td>
+                <td>@Html.DisplayFor(modelItem => item.Brand)</td>
+                <td>@Html.DisplayFor(modelItem => item.Model)</td>
+                <td>@Html.DisplayFor(modelItem => item.Year)</td>
+                <td>@Html.DisplayFor(modelItem => item.Color)</td>
+                <td>@Html.DisplayFor(modelItem => item.Client.FirstName) @Html.DisplayFor(modelItem => item.Client.LastName)</td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.IdVehicle" class="btn btn-warning">Edit</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.IdVehicle" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

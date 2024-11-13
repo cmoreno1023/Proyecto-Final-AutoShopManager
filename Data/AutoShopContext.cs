@@ -11,5 +11,6 @@ namespace AutoShopManager.Data
         }
 
         public DbSet<Client> Clients { get; set; } = default!;
+        public DbSet<Vehicle> Vehicles { get; set; }
     }
 }
