@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1D1D3FB7-A1C7-4A0B-9893-EC6E6B50DC75}|AutoShopManager.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autoshopmanager\\autoshopmanager\\models\\repair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1D3FB7-A1C7-4A0B-9893-EC6E6B50DC75}|AutoShopManager.csproj|solutionrelative:models\\repair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1D3FB7-A1C7-4A0B-9893-EC6E6B50DC75}|AutoShopManager.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autoshopmanager\\autoshopmanager\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1D3FB7-A1C7-4A0B-9893-EC6E6B50DC75}|AutoShopManager.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D1D3FB7-A1C7-4A0B-9893-EC6E6B50DC75}|AutoShopManager.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autoshopmanager\\autoshopmanager\\migrations\\20241114163346_addrepairentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D1D3FB7-A1C7-4A0B-9893-EC6E6B50DC75}|AutoShopManager.csproj|solutionrelative:migrations\\20241114163346_addrepairentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D1D3FB7-A1C7-4A0B-9893-EC6E6B50DC75}|AutoShopManager.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autoshopmanager\\autoshopmanager\\data\\autoshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D1D3FB7-A1C7-4A0B-9893-EC6E6B50DC75}|AutoShopManager.csproj|solutionrelative:data\\autoshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D1D3FB7-A1C7-4A0B-9893-EC6E6B50DC75}|AutoShopManager.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autoshopmanager\\autoshopmanager\\models\\repair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D1D3FB7-A1C7-4A0B-9893-EC6E6B50DC75}|AutoShopManager.csproj|solutionrelative:models\\repair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D1D3FB7-A1C7-4A0B-9893-EC6E6B50DC75}|AutoShopManager.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autoshopmanager\\autoshopmanager\\pages\\clients\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1D1D3FB7-A1C7-4A0B-9893-EC6E6B50DC75}|AutoShopManager.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autoshopmanager\\autoshopmanager\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D1D3FB7-A1C7-4A0B-9893-EC6E6B50DC75}|AutoShopManager.csproj|solutionrelative:models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D1D3FB7-A1C7-4A0B-9893-EC6E6B50DC75}|AutoShopManager.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autoshopmanager\\autoshopmanager\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D1D3FB7-A1C7-4A0B-9893-EC6E6B50DC75}|AutoShopManager.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D1D3FB7-A1C7-4A0B-9893-EC6E6B50DC75}|AutoShopManager.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autoshopmanager\\autoshopmanager\\migrations\\20241113191215_addvehicleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -118,37 +118,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "20241114163346_AddRepairEntity.cs",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\Migrations\\20241114163346_AddRepairEntity.cs",
               "RelativeDocumentMoniker": "Migrations\\20241114163346_AddRepairEntity.cs",
               "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\Migrations\\20241114163346_AddRepairEntity.cs",
               "RelativeToolTip": "Migrations\\20241114163346_AddRepairEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T16:33:47.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Repair.cs",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\Models\\Repair.cs",
               "RelativeDocumentMoniker": "Models\\Repair.cs",
               "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\Models\\Repair.cs",
               "RelativeToolTip": "Models\\Repair.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T16:17:06.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\Pages\\Vehicles\\Delete.cshtml",
               "RelativeDocumentMoniker": "Pages\\Vehicles\\Delete.cshtml",
@@ -156,12 +156,11 @@
               "RelativeToolTip": "Pages\\Vehicles\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-14T16:10:22.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T16:10:22.854Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\Pages\\Vehicles\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Vehicles\\Edit.cshtml.cs",
@@ -169,12 +168,11 @@
               "RelativeToolTip": "Pages\\Vehicles\\Edit.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T16:06:42.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T16:06:42.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\Pages\\Vehicles\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Vehicles\\Edit.cshtml",
@@ -182,12 +180,11 @@
               "RelativeToolTip": "Pages\\Vehicles\\Edit.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-14T16:06:22.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T16:06:22.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\Pages\\Vehicles\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Vehicles\\Create.cshtml.cs",
@@ -195,12 +192,11 @@
               "RelativeToolTip": "Pages\\Vehicles\\Create.cshtml.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T19:28:30.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T19:28:30.859Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\Pages\\Vehicles\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Vehicles\\Create.cshtml",
@@ -212,7 +208,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T20:02:37.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\Pages\\Vehicles\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Vehicles\\Index.cshtml.cs",
@@ -224,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AutoShopContext.cs",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\Data\\AutoShopContext.cs",
               "RelativeDocumentMoniker": "Data\\AutoShopContext.cs",
@@ -232,12 +245,11 @@
               "RelativeToolTip": "Data\\AutoShopContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:56:49.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T19:56:49.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\Pages\\Vehicles\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Vehicles\\Delete.cshtml.cs",
@@ -245,12 +257,11 @@
               "RelativeToolTip": "Pages\\Vehicles\\Delete.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T16:10:26.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T16:10:26.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\Pages\\Clients\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Clients\\Delete.cshtml.cs",
@@ -258,16 +269,11 @@
               "RelativeToolTip": "Pages\\Clients\\Delete.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T21:31:18.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-11-12T21:31:18.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\Pages\\Vehicles\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Vehicles\\Index.cshtml",
@@ -291,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "vehicle.cs",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\Models\\vehicle.cs",
               "RelativeDocumentMoniker": "Models\\vehicle.cs",
@@ -327,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
@@ -360,18 +366,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-12T21:20:57.125Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "Models\\Client.cs",
-              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\Models\\Client.cs",
-              "RelativeToolTip": "Models\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T20:02:37.842Z"
             },
             {
               "$type": "Document",
