@@ -1,0 +1,40 @@
+﻿@page
+@model AutoShopManager.Pages.Repairs.IndexModel
+@{
+    ViewData["Title"] = "Repairs";
+}
+
+<h1>Repairs</h1>
+
+<p>
+    <a asp-page="Create" class="btn btn-success">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Description</th>
+            <th>Vehicle</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Estimated Cost</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Repairs)
+        {
+            <tr>
+                <td>@item.Description</td>
+                <td>@item.Vehicle?.Brand @item.Vehicle?.Model</td>
+                <td>@item.StartDate.ToShortDateString()</td>
+                <td>@item.EndDate.ToShortDateString()</td>
+                <td>@item.EstimatedCost.ToString("C")</td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.IdRepair" class="btn btn-warning">Edit</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.IdRepair" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

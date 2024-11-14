@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoShopManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c09c5b3836982e4b641f9ed337a51e835da6bc1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be7500744909868fb6b7cc39fc8cc88f97add431")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoShopManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoShopManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

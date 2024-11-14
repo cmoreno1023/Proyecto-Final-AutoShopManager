@@ -8,27 +8,24 @@ namespace AutoShopManager.Models
         [Key]
         public int IdRepair { get; set; }
 
-        [Required(ErrorMessage = "Description is required")]
-        [StringLength(500)]
+        [Required]
         public string Description { get; set; } = default!;
 
-        [Required(ErrorMessage = "Vehicle is required")]
+        [Required]
         public int IdVehicle { get; set; }
 
         [ForeignKey("IdVehicle")]
         public virtual Vehicle? Vehicle { get; set; }
 
-        [Required(ErrorMessage = "Start Date is required")]
+        [Required]
         [Display(Name = "Start Date")]
-        [DataType(DataType.Date)]
         public DateTime StartDate { get; set; }
 
-        [Required(ErrorMessage = "End Date is required")]
+        [Required]
         [Display(Name = "End Date")]
-        [DataType(DataType.Date)]
         public DateTime EndDate { get; set; }
 
-        [Required(ErrorMessage = "Estimated Cost is required")]
+        [Required]
         [Display(Name = "Estimated Cost")]
         [Column(TypeName = "decimal(18,2)")]
         public decimal EstimatedCost { get; set; }
