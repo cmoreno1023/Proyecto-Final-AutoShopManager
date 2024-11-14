@@ -1,0 +1,35 @@
+﻿@page
+@model AutoShopManager.Pages.Repairs.DeleteModel
+@{
+    ViewData["Title"] = "Delete Repair";
+}
+
+<h1>Delete Repair</h1>
+
+<h3>Are you sure you want to delete this repair?</h3>
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">Vehicle</dt>
+        <dd class="col-sm-10">
+            @Model.Repair.Vehicle?.Brand @Model.Repair.Vehicle?.Model - @Model.Repair.Vehicle?.LicensePlate
+        </dd>
+
+        <dt class="col-sm-2">Description</dt>
+        <dd class="col-sm-10">@Model.Repair.Description</dd>
+
+        <dt class="col-sm-2">Start Date</dt>
+        <dd class="col-sm-10">@Model.Repair.StartDate.ToShortDateString()</dd>
+
+        <dt class="col-sm-2">End Date</dt>
+        <dd class="col-sm-10">@Model.Repair.EndDate.ToShortDateString()</dd>
+
+        <dt class="col-sm-2">Estimated Cost</dt>
+        <dd class="col-sm-10">@Model.Repair.EstimatedCost.ToString("C")</dd>
+    </dl>
+
+    <form method="post">
+        <input type="hidden" asp-for="Repair.IdRepair" />
+        <input type="submit" value="Delete" class="btn btn-danger" />
+        <a asp-page="./Index" class="btn btn-secondary">Back to List</a>
+    </form>
+</div>
