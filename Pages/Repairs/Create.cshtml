@@ -1,0 +1,58 @@
+﻿@page
+@model AutoShopManager.Pages.Repairs.CreateModel
+@{
+    ViewData["Title"] = "Create Repair";
+}
+
+<h1>Create Repair</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Repair.IdVehicle" class="control-label">Vehicle</label>
+                <select asp-for="Repair.IdVehicle" class="form-control" asp-items="ViewBag.IdVehicle">
+                    <option value="">-- Select Vehicle --</option>
+                </select>
+                <span asp-validation-for="Repair.IdVehicle" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Repair.Description" class="control-label"></label>
+                <textarea asp-for="Repair.Description" class="form-control" rows="3"></textarea>
+                <span asp-validation-for="Repair.Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Repair.StartDate" class="control-label"></label>
+                <input asp-for="Repair.StartDate" class="form-control" type="date" />
+                <span asp-validation-for="Repair.StartDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Repair.EndDate" class="control-label"></label>
+                <input asp-for="Repair.EndDate" class="form-control" type="date" />
+                <span asp-validation-for="Repair.EndDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Repair.EstimatedCost" class="control-label"></label>
+                <input asp-for="Repair.EstimatedCost" class="form-control" type="number" step="0.01" />
+                <span asp-validation-for="Repair.EstimatedCost" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+                <a asp-page="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
