@@ -2,9 +2,13 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using AutoShopManager.Data;
 using AutoShopManager.Models;
+using Microsoft.AspNetCore.Authorization;
+
 
 namespace AutoShopManager.Pages.Appointments
+
 {
+    [Authorize]
     public class IndexModel : PageModel
     {
         private readonly AutoShopContext _context;
