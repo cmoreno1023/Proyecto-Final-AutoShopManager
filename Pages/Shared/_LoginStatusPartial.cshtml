@@ -1,0 +1,22 @@
+﻿@using System.Security.Claims
+
+@if (User.Identity?.IsAuthenticated == true)
+{
+    // Si el usuario está logueado, muestra estos elementos
+    <li class="nav-item">
+        <span class="nav-link text-dark">Hola, @User.FindFirst(ClaimTypes.Email)?.Value!</span>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-page="/Account/Logout">Cerrar Sesión</a>
+    </li>
+}
+else
+{
+    // Si el usuario NO está logueado, muestra estos elementos
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-page="/Account/Login">Iniciar Sesión</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-page="/Account/Register">Registrarse</a>
+    </li>
+}
