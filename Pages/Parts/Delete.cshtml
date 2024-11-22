@@ -1,0 +1,33 @@
+﻿@page
+@model AutoShopManager.Pages.Parts.DeleteModel
+@{
+    ViewData["Title"] = "Delete Part";
+}
+
+<h1>Delete Part</h1>
+
+<h3>Are you sure you want to delete this part?</h3>
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Part.Name)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Part.Name)</dd>
+
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Part.PartNumber)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Part.PartNumber)</dd>
+
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Part.Price)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Part.Price)</dd>
+
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Part.Stock)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Part.Stock)</dd>
+
+        <dt class="col-sm-2">@Html.DisplayNameFor(model => model.Part.Provider)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Part.Provider)</dd>
+    </dl>
+
+    <form method="post">
+        <input type="hidden" asp-for="Part.IdPart" />
+        <input type="submit" value="Delete" class="btn btn-danger" />
+        <a asp-page="./Index" class="btn btn-secondary">Back to List</a>
+    </form>
+</div>
