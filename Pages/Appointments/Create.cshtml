@@ -1,0 +1,60 @@
+﻿@page
+@model AutoShopManager.Pages.Appointments.CreateModel
+@{
+    ViewData["Title"] = "Create Appointment";
+}
+
+<h1>Create Appointment</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Appointment.IdClient" class="control-label">Client</label>
+                <select asp-for="Appointment.IdClient" class="form-control" asp-items="ViewBag.IdClient">
+                    <option value="">-- Select Client --</option>
+                </select>
+                <span asp-validation-for="Appointment.IdClient" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Appointment.IdVehicle" class="control-label">Vehicle</label>
+                <select asp-for="Appointment.IdVehicle" class="form-control" asp-items="ViewBag.IdVehicle">
+                    <option value="">-- Select Vehicle --</option>
+                </select>
+                <span asp-validation-for="Appointment.IdVehicle" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Appointment.Date" class="control-label"></label>
+                <input asp-for="Appointment.Date" class="form-control" type="date" />
+                <span asp-validation-for="Appointment.Date" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Appointment.Time" class="control-label"></label>
+                <input asp-for="Appointment.Time" class="form-control" type="time" />
+                <span asp-validation-for="Appointment.Time" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Appointment.ServiceDescription" class="control-label"></label>
+                <textarea asp-for="Appointment.ServiceDescription" class="form-control" rows="3"></textarea>
+                <span asp-validation-for="Appointment.ServiceDescription" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+                <a asp-page="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

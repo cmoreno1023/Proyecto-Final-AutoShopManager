@@ -26,6 +26,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\cmore\OneDrive\Desktop\TRABAJOS ROMO CONSOLIDADO 3\AutoShopManager\AutoShopManager
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Appointments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludG1lbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Appointments/DELETE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludG1lbnRzXERFTEVURS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Appointments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludG1lbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Appointments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludG1lbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Clients/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

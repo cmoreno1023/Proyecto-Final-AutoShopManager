@@ -1,0 +1,40 @@
+﻿@page
+@model AutoShopManager.Pages.Appointments.IndexModel
+@{
+    ViewData["Title"] = "Appointments";
+}
+
+<h1>Appointments</h1>
+
+<p>
+    <a asp-page="Create" class="btn btn-success">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Client</th>
+            <th>Vehicle</th>
+            <th>Date</th>
+            <th>Time</th>
+            <th>Service Description</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Appointment)
+        {
+            <tr>
+                <td>@item.Client?.FirstName @item.Client?.LastName</td>
+                <td>@item.Vehicle?.Brand @item.Vehicle?.Model (@item.Vehicle?.LicensePlate)</td>
+                <td>@item.Date.ToShortDateString()</td>
+                <td>@item.Time.ToString("HH:mm")</td>
+                <td>@item.ServiceDescription</td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.IdAppointment" class="btn btn-warning">Edit</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.IdAppointment" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
