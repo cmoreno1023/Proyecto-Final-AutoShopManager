@@ -15,5 +15,7 @@ namespace AutoShopManager.Data
         public DbSet<Repair> Repairs { get; set; } = default!;
         public DbSet<Part> Parts { get; set; }
         public DbSet<Appointment> Appointments { get; set; }
+
+        public DbSet<User> Users { get; set; }
     }
 }
