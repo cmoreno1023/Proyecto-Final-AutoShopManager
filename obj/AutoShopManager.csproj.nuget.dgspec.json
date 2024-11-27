@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\AutoShopManager.csproj": {}
+    "C:\\Users\\cmore\\source\\repos\\Proyecto-Final-AutoShopManager\\AutoShopManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\AutoShopManager.csproj": {
+    "C:\\Users\\cmore\\source\\repos\\Proyecto-Final-AutoShopManager\\AutoShopManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\AutoShopManager.csproj",
+        "projectUniqueName": "C:\\Users\\cmore\\source\\repos\\Proyecto-Final-AutoShopManager\\AutoShopManager.csproj",
         "projectName": "AutoShopManager",
-        "projectPath": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\AutoShopManager.csproj",
+        "projectPath": "C:\\Users\\cmore\\source\\repos\\Proyecto-Final-AutoShopManager\\AutoShopManager.csproj",
         "packagesPath": "C:\\Users\\cmore\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\AutoShopManager\\AutoShopManager\\obj\\",
+        "outputPath": "C:\\Users\\cmore\\source\\repos\\Proyecto-Final-AutoShopManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cmore\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

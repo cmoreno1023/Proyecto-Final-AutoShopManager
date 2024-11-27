@@ -17,135 +17,143 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AutoShopManager
 build_property.RootNamespace = AutoShopManager
-build_property.ProjectDir = C:\Users\cmore\OneDrive\Desktop\TRABAJOS ROMO CONSOLIDADO 3\AutoShopManager\AutoShopManager\
+build_property.ProjectDir = C:\Users\cmore\source\repos\Proyecto-Final-AutoShopManager\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\cmore\OneDrive\Desktop\TRABAJOS ROMO CONSOLIDADO 3\AutoShopManager\AutoShopManager
+build_property.MSBuildProjectDirectory = C:\Users\cmore\source\repos\Proyecto-Final-AutoShopManager
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Account/Login.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
 [C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Account/Register.cshtml]
+=======
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Account/Register.cshtml]
+>>>>>>> e1e7857d3044a41f7a77f659792b92da0e2d747f
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Appointments/Create.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Appointments/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludG1lbnRzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Appointments/DELETE.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Appointments/DELETE.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludG1lbnRzXERFTEVURS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Appointments/Edit.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Appointments/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludG1lbnRzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Appointments/Index.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Appointments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXBwb2ludG1lbnRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Clients/Create.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Clients/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Clients/Delete.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Clients/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Clients/Edits.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Clients/Edits.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xFZGl0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Clients/Index.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Clients/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Error.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Index.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Parts/Create.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Parts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Parts/Delete.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Parts/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Parts/Edit.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Parts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Parts/Index.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Parts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Privacy.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Repairs/Create.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Repairs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwYWlyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Repairs/Delete.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Repairs/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwYWlyc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Repairs/Edit.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Repairs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwYWlyc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Repairs/Index.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Repairs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwYWlyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Shared/_LoginStatusPartial.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Shared/_LoginStatusPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblN0YXR1c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Vehicles/Create.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Vehicles/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWNsZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Vehicles/Delete.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Vehicles/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWNsZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Vehicles/Edit.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Vehicles/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWNsZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Vehicles/Index.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Vehicles/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVoaWNsZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/_ViewImports.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/_ViewStart.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cmore/OneDrive/Desktop/TRABAJOS ROMO CONSOLIDADO 3/AutoShopManager/AutoShopManager/Pages/Shared/_Layout.cshtml]
+[C:/Users/cmore/source/repos/Proyecto-Final-AutoShopManager/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-sy9reef7j9

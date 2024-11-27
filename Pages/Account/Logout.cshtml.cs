@@ -15,4 +15,8 @@ namespace AutoShopManager.Pages.Account
             return RedirectToPage("/Index");
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e1e7857d3044a41f7a77f659792b92da0e2d747f
